@@ -1,5 +1,10 @@
 # django-introduction-project
 
+## Dependencies
+
+DjangoRestFramework (DRF)
+
+
 ## Development
 
 
